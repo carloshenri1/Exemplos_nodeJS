@@ -1,0 +1,1 @@
+console.log("O seu ultimo dia facil, foi ontem!")

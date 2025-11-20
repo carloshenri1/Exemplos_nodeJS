@@ -1,2 +1,2 @@
-# Exemplos_nodeJS
-Desenvolvido em sala de aula
+# ExemplosNodeJS
+Exercicios desenvolvidos em sala de aula

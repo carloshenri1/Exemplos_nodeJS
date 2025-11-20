@@ -1,0 +1,6 @@
+console.log("-------DADOS CADASTRAIS----------")
+console.log("Nome: Bruno Leonardo")
+console.log("Idade: 21 anos")
+console.log("Cidade: São Paulo")
+console.log("Formação: Analise e Desenvolvimento de Sistemas")
+console.log("Formação: Gestão de Qualidade")

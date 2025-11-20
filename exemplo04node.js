@@ -1,0 +1,10 @@
+console.log("-------DADOS CADASTRAIS----------")
+console.log("Nome: Bruno Leonardo")
+console.log("Idade: 21 anos")
+console.log("Cidade: São Paulo")
+console.log("Formação: Analise e Desenvolvimento de Sistemas")
+console.log("Formação: Gestão de Qualidade")
+console.log("Linkedin: https://www.linkedin.com/in/brunoleonardo21/")
+console.log("GitHub: https://github.com/BrunoLeon007/BrunoLeon007")
+console.log("Portifólio: https://brunoleonardo21.github.io/")
+
